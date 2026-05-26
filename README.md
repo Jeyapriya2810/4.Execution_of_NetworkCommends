@@ -86,5 +86,6 @@ This commands includes
 
 
 <img width="813" height="928" alt="image" src="https://github.com/user-attachments/assets/4c23ad83-be6f-4b58-a8e5-0e10b60e3f0c" />
+
 ## Result
 Thus Execution of Network commands Performed 
